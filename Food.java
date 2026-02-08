@@ -1,3 +1,5 @@
+//dia 5,6 - dia 05/01/2026 - contador de calorias
+
 public class Food {
     
     private String name;

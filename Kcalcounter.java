@@ -1,9 +1,9 @@
-// dia 5 - dia 05/01/2026 - contador de calorias
+// dia 5,6 - dia 05/01/2026 - contador de calorias
 
-import java.util.Scanner;
+// import java.util.Scanner;
 import java.util.ArrayList;
 
-public class kcalcounter {
+public class Kcalcounter {
     public static void main(String[] args){
         ArrayList<Food> foods = new ArrayList<>();
 
